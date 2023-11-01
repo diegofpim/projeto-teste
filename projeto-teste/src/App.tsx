@@ -3,8 +3,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-
-  const [testandoUmaVariavelMuitoGrandePraTestarPrettier, setTestandoUmaVariavelMuitoGrandePraTestarPrettier] = useState();
+  const [
+    testandoUmaVariavelMuitoGrandePraTestarPrettier,
+    setTestandoUmaVariavelMuitoGrandePraTestarPrettier,
+  ] = useState();
 
   return (
     <div className="App">
